@@ -9,3 +9,5 @@ last_name = 'Olalekan'
 print(f'{last_name} {first_name}')
 print(name)
 print("school")
+print("name")
+print("school")
